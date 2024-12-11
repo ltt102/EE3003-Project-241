@@ -1,0 +1,18 @@
+Added Component: Designator=LED(LED 5mm DO)
+Added Component: Designator=U1(Nodemcu-32s)
+Added Component: Designator=U2(AC_IN)
+Added Pin To Net: NetName=+3.3V Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U2-3
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO21 Pin=LED-1
+Added Pin To Net: NetName=GPIO21 Pin=U1-33
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO26 Pin=U1-10
+Added Pin To Net: NetName=GPIO26 Pin=U2-2
+Added Net: Name=GPIO26
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
